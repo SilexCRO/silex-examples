@@ -1,0 +1,8 @@
+{
+  "id": "example-project",
+  "name": "Example Project",
+  "network": "example-network",
+  "website": "https://example.invalid",
+  "verification": { "status": "example-only", "observedAt": "2026-01-01T00:00:00Z" }
+}
+
